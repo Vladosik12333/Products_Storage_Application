@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "64632_Vladyslav_Babiak_task_4", "64632_Vladyslav_Babiak_task_4.csproj", "{F7718A6A-355F-4846-9A92-9333FE604908}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows_Forms_App_Products_Storage", "Windows_Forms_App_Products_Storage.csproj", "{F7718A6A-355F-4846-9A92-9333FE604908}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
